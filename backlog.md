@@ -11,7 +11,9 @@ See more info here:
 * Do the Javascript course on Codecademy at : 
 	http://www.codecademy.com/tracks/javascript
 
-* Change your blog to be more dynamic add a form that allows you to add new blog entries onto your blog store your blog entries using localStorage. See more info here: https://github.com/codex-academy/codeX_SpringBoard/blob/master/create_dynamic_blog.md
+* Change your blog to be more dynamic add a form that allows you to add new blog entries onto your blog. Store your blog entries using localStorage. See more info here: https://github.com/codex-academy/codeX_SpringBoard/blob/master/create_dynamic_blog.md
+
 * Blog about what you learned while making your blog more dynamic, using the old static blog.
-* Change your blog to be able to store the blog entries online instead of only locally|See more info here: https://github.com/codex-academy/codeX_SpringBoard/blob/master/going_global.md
+
+* Change your blog to be able to store the blog entries online instead of only in localStorage. See more info here: https://github.com/codex-academy/codeX_SpringBoard/blob/master/going_global.md
 * Allow people to comment on your blog posts. Add support that allow you to decide if you would like to see posts displayed on your blog or not
