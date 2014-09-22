@@ -3,20 +3,20 @@
 * Improve your HTML and CSS knowledge by doing the course on Codecademy at:
 	http://www.codecademy.com/tracks/web
 
-* Create a blog for yourself using static html files, and publish it online at : http://coders.projectcodex.co/your_name/blog
+* Create a blog for yourself using static html files:
+	* publish it online at : http://coders.projectcodex.co/your_name/blog
+	* Create a design for your blog, one should be able:
+		* to easily see new blog entries
+		* see a list of blog entries
+		* be able to read the old ones as well. 
+
+	See more info here: 
+		https://github.com/codex-academy/codeX_SpringBoard/blob/master/create_static_blog.md
 
 * Create at least one blog entry on your blog on one of these:
 	* An entry about why you are at codeX. What are your expectations, what makes you excited about codeX.
 	* An post with a photo of you at your codeX laptop tell about the laptop you are and what OS you are using. Where is codeX being done. Any thoughts on the venue you might have (A photo of the view might get some mileage...)
 	* Another entry in which you tell what you have learned so far at codeX. 	
-
-
-* Create a design for your blog, one should be able:
-	* to easily see new blog entries
-	* see a list of blog entries
-	* be able to read the old ones as well. 
-See more info here: 
-	https://github.com/codex-academy/codeX_SpringBoard/blob/master/create_static_blog.md
 
 * Learn about Javascript using the tutorial on Codecademy at : 
 	http://www.codecademy.com/tracks/javascript
