@@ -3,7 +3,7 @@
 * Improve your HTML and CSS knowledge by doing the course on Codecademy at:
 	http://www.codecademy.com/tracks/web
 
-* Create a blog for yourself using static html files, and publish it online at : http://coders.projectcodex.co/<your_name>/blog
+* Create a blog for yourself using static html files, and publish it online at : http://coders.projectcodex.co/your_name/blog
 
 * Create at least one blog entry on your blog on one of these:
 	* An entry about why you are at codeX. What are your expectations, what makes you excited about codeX.
