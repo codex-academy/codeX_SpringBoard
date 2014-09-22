@@ -23,7 +23,7 @@
 
 * Learn about JQuery using this tutorial on Codecademy: http://www.codecademy.com/tracks/jquery
 
-* Change your blog to be more dynamic add a form that allows you to add new blog entries onto your blog. 
+* Change your blog to be more dynamic, add a form that allows you to add new blog entries onto your blog. 
 	* Store your blog entries using localStorage. 
 	* See more info here: https://github.com/codex-academy/codeX_SpringBoard/blob/master/create_dynamic_blog.md
 
